@@ -1,0 +1,30 @@
+---
+title: "final"
+author: "DBA3803 group"
+date: "11/1/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+library(caret)
+#Do add more 
+```
+
+## Project - Movie
+
+
+
+```{r}
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r}
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
